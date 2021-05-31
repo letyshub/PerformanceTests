@@ -1,3 +1,5 @@
+[Article](https://marcinsalata.com/2021/05/29/przeszukiwanie-kolekcji-w-net-core) source code
+
 ## Run benchmarks
 
 ```
